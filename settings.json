@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "sadik_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Smx31.aternos.me",
     "port": 40833,
-    "version": "1.21.1"
+    "version": "1.21.2"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "botsadik1"
     },
     "anti-afk": {
       "enabled": true,
