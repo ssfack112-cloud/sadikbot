@@ -1,14 +1,13 @@
-{
-  "name": "AFK Bot",
+name": "AFK Bot",
   "bot-account": {
-    "username": "sadik_bot",
+    "username": "DbgamingLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Smx31.aternos.me",
-    "port": 40833,
-    "version": "1.21.2"
+    "ip": "example.aternos.me",
+    "port": 25565,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -19,7 +18,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "botsadik1"
+      "password": "Perzuu"
     },
     "anti-afk": {
       "enabled": true,
