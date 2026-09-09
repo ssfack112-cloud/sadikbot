@@ -5,8 +5,8 @@ name": "AFK Bot",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
+    "ip": "Smx31.aternos.me:",
+    "port": 40833,
     "version": "1.21.1"
   },
   "position": {
