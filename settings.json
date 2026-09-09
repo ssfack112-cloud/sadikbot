@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Smx31.aternos.me",
+    "ip": "lampfish.aternos.host",
     "port": 40833,
     "version": "1.21.1"
   },
